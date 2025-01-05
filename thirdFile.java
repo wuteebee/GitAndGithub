@@ -5,4 +5,8 @@ public class thirdFile {
     public void printNew() {
         System.out.println("This is a new addition.");
     }
+
+    public void printLatest() {
+        System.out.println("This is the latest");
+    }
 }
